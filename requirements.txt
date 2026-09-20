@@ -1,0 +1,8 @@
+fastapi>=0.110
+uvicorn>=0.29
+scikit-learn>=1.4
+pydantic>=2.6
+
+# testing (not required to run the server, only to run the test suite)
+pytest>=8.0
+httpx>=0.27
